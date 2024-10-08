@@ -23,7 +23,7 @@
       "Kids Audiobooks",
       "Tech Trainings"
     ],
-    "PlexUrl": "http://192.168.1.93:32400",
+    "PlexUrl": "http://100.1.105.89:32400",
     "UsePlex": "true",
     "UploadExistingAssets": "false"
   },
